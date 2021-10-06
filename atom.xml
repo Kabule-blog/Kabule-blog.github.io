@@ -37,6 +37,28 @@
   </entry>
   
   <entry>
+    <title>吴恩达机器学习视频02之单变量线性回归</title>
+    <link href="http://example.com/2021/10/06/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%9102%E4%B9%8B%E5%8D%95%E5%8F%98%E9%87%8F%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
+    <id>http://example.com/2021/10/06/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%9102%E4%B9%8B%E5%8D%95%E5%8F%98%E9%87%8F%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/</id>
+    <published>2021-10-06T09:15:32.000Z</published>
+    <updated>2021-10-06T11:32:53.978Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="单变量线性回归"><a href="#单变量线性回归" class="headerlink" title="单变量线性回归"></a>单变量线性回归</h1><p>  在机器学习中，我们通常以预测房价为例，在监督学习算法中，我们向监督学习算法提供训练集，而学习算法的任务是输出一个函数，这个函数把房子大小作为输入变量x，然后输出相应房子的预测价格y，即h是引导x得到y的函数（我们常用hypothesis来表示函数，这是标准的专业术语）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;单变量线性回归&quot;&gt;&lt;a href=&quot;#单变量线性回归&quot; class=&quot;headerlink&quot; title=&quot;单变量线性回归&quot;&gt;&lt;/a&gt;单变量线性回归&lt;/h1&gt;&lt;p&gt;  在机器学习中，我们通常以预测房价为例，在监督学习算法中，我们向监督学习算法提供训练集，而学习算法</summary>
+      
+    
+    
+    <content src="http://example.com/images/themes/%E5%B0%81%E9%9D%A21.JPG" type="image"/>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>article title</title>
     <link href="http://example.com/2021/10/06/article-title/"/>
     <id>http://example.com/2021/10/06/article-title/</id>
