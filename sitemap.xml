@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://example.com/2021/10/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2021-10-06</lastmod>
     
@@ -16,6 +23,41 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/galleries/index.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/galleries/%E8%AE%B0%E4%BA%8B/index.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/galleries/%E6%B7%B1%E5%9C%B3%E6%97%A5%E8%AE%B0/index.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/galleries/colorful/index.html</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/10/06/article-title/</loc>
     
     <lastmod>2021-10-06</lastmod>
@@ -23,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/05/hello-world/</loc>
+    <loc>http://example.com/2021/10/06/hello-world/</loc>
     
     <lastmod>2021-10-05</lastmod>
     
